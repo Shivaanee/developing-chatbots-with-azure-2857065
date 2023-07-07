@@ -33,6 +33,14 @@ I am looking for machine learning products
 I have an ML problem to solve
 I am looking for solutions to secure my product
 
+# get_cost (category)
+How much does it cost?
+What is the price?
+How much is it?
+How much will it be?
+Please tell me the price.
+How much?
+
 # get_features (product_name)
 
 What features does it provide?
