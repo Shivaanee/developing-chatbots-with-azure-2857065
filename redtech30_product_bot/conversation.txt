@@ -1,0 +1,16 @@
+Bot: Hey, I am the Redtech 30 chatbot here for to assist you.
+User: What is redtech 30?
+Bot: <company desc>
+User: I am looking for some ML solutions for my start-up.
+Bot: <list ML solutions>
+User: Tell me more about ML Learn
+Bot: <ML Learn desc>
+User: What are the pricing options?
+Bot: <list pricing options>
+User: Can I get a demo?
+Bot: Of course! Let me connect you with a member of my team. <Get user details>
+User: <give details>
+Bot: Thanks! You will be contacted shortly for a scheduled demo.
+User: Okay
+Bot: Bye! Have a nice day.
+---
