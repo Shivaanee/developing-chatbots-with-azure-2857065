@@ -1,0 +1,49 @@
+User: Hi
+Bot: Hey there! I am the Redtech30 Careers Support Bot, here to assist you.
+User: Are there any open roles?
+Bot: <list open roles>
+User: Tell me more about <role>?
+Bot: <role desc>
+User: What is the hiring process?
+Bot: <list hiring process>
+User: Salary expectations?
+Bot: <list salary range for role>
+User: When was this job vacancy posted?
+Bot: <role listing date>
+User: Thanks
+Bot: Bye, Have a nice day!
+---
+
+# Greet
+Hi, hello, hey, yo
+Are you there?
+
+# list_vacancies (none/category)
+Are there any open roles?
+What jobs are available?
+Tell me more about any vacancies.
+List any IT open jobs.
+
+# list_role_desc (role)
+Tell me more about <role>?
+What is <role>?
+What are the qualifications required for <role>?
+What is the job description for <role>?
+
+# list_hiring_process (none/role)
+What is the hiring process?
+What is the hiring process like?
+Hiring process for <role>?
+What is the interview process for <role>?
+
+# list_salary_range (role)
+Salary expectations?
+What is the salary range for <role>?
+Compensation for <role>?
+Renumeration for <role>?
+
+# list_job_detail (role)
+When was this job vacancy posted?
+When is the deadline to apply for <role>?
+Is this a part-time job?
+Where is the job based?
