@@ -47,3 +47,14 @@ When was this job vacancy posted?
 When is the deadline to apply for <role>?
 Is this a part-time job?
 Where is the job based?
+Is this a remote role?
+
+STATIC INTENTS
+Intro
+Company Info
+Job info
+
+DYNAMIC INTENTS
+Job list
+Application list
+Job reviews
